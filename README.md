@@ -15,5 +15,3 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeJaybe&layout=compact)](https://github.com/MaybeJaybe/github-readme-stats)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MaybeJaybe)
