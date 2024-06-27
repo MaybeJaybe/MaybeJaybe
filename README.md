@@ -2,9 +2,9 @@
 
 💻 - Front End Developer
 
-🪴 - Currently a student at Dominican University of California
+🪴 - Graduated from Dominican University of California
 
-✨ - Hobbies include working on art, swimming, and training my cat
+✨ - You can find me coding, swimming, gaming, learning languages, or making art :)
 
 ---
 
